@@ -10,6 +10,10 @@ while True:
         if n_of_articles < 0:
             raise NegativeIntegerError
 
+        elif n_of_articles == 0:
+            print('Number of articles cannot be 0')
+            continue
+
         break
 
     except ValueError:

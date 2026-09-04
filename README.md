@@ -13,5 +13,5 @@ real-world programming skills — from file handling to API integration to autom
 | 6 | QR Code Generator | Generate QR codes from text or URLs |
 
 ## Cloning 
-Paste this text below(accurately) in your IDE terminal to get the whole project in your IDE under a sec:
+Paste this text below(accurately) in your IDE terminal to get the whole project in your IDE under a sec:<br>
 git clone https://github.com/Dhruv-r24/Python-Projects.git
